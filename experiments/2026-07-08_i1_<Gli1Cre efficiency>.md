@@ -10,7 +10,7 @@
 | DNAse I | Roche | 03724778103 | 5 mg/mL | 25 ug/mL |
 | Tamoxifen | Sigma Aldrich | T9262-1G | 50 mg/mL | 10 mg/mL |
 | Sca1 antibody | Biolegend | 108125 | 0.2 mg/mL | 1 ug/mL |
-| dPBS| Gibco | 14-190-144 | 1x | 1x |
+| dPBS| Fisher Scientific | AM9625 | 10x | 1x |
 
 ## Procedure
 1. Cross Gli1CreER/Gli1CreER mouse to Ai14/Ai14 mouse to obtain the Gli1CreER/+ Ai14/+ genotype.
