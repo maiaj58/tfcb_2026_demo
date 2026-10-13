@@ -1,7 +1,7 @@
 # Testing Gli1Cre efficiency in lung fibroblasts
 2026-07-08
 
-[Gli1Cre Efficiency test](https://github.com/maiaj58/tfcb_2026_demo/issues/1#issue-5824843401)
+[Gli1CreER Efficiency test](https://github.com/maiaj58/tfcb_2026_demo/issues/1#issue-5824843401)
 
 ## Reagents 
 | Reagent | Vendor | Catalog number | Stock concentration | Final concentration | 
