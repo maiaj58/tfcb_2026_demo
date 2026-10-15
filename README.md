@@ -7,7 +7,7 @@ Upon accepting an invitation to collaborate to this repository, my collaborators
 
 - tfcb_2026_demo/
   - README.md
-  - experiments/2026-07-08_i1_<Gli1Cre efficiency>.md
+  - experiments/2026-07-08_i1_Gli1Cre_efficiency.md
   - experiments/img/Gli1Cre flow results.png
   - analysis/qpcr/2026-10-13_i2_tidy_data_exercise/
     - README.md
