@@ -22,7 +22,7 @@ Upon accepting an invitation to collaborate to this repository, my collaborators
 
 [Log file i1](https://github.com/maiaj58/tfcb_2026_demo/blob/main/experiments/2026-07-08_i1_%3CGli1Cre%20efficiency%3E.md)
 
-[Image i1](https://github.com/maiaj58/tfcb_2026_demo/blob/main/experiments/img/Gli1Cre%20flow%20results.png)
+[Image i1](experiments/img/Gli1Cre%20flow%20results.png)
 
 [tidy_data.csv](https://github.com/maiaj58/tfcb_2026_demo/blob/main/analysis/qpcr/2026-10-13_i2_tidy_data_exercise/tables/tidy_data.csv)
 
