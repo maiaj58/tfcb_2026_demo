@@ -2,8 +2,7 @@
 
 This repository is a public record that is essentially a large folder that stores information about experiments, data from experiments, comments from collaborators, and a record of all of the changes made to any part of the repository. This repository includes an experiment called testing Gli1Cre efficiency in lung fibroblasts and an exercise about tidying data. This repository was made by Maia Jackson.
 
-Upon accepting an invitation to collaborate to this repository, my collaborators gain write access to the repository, allowing them to edit aspects of the repository. They are now able to push commits, create and delete files, become assigned to issues, open and close issues, and create and delete branches. They are not able to change settings in the repository, delete the repository, or add/delete other collaborators. Before the invitation to collaborate, these users were only able to view the repository, but upon accepting the invitation, they are able to contribute and edit many aspects.
-
+Upon accepting an invitation to collaborate to this repository, my collaborators gain write access to the repository, allowing them to edit aspects of the repository. They are now able to push commits, create and delete files, become assigned to issues, open and close issues, and create and delete branches. They are not able to change settings in the repository, delete the repository, or add/delete other collaborators.
 ## Folder layout
 
 - tfcb_2026_demo/
